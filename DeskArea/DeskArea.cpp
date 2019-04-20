@@ -34,6 +34,9 @@ DWORD				nCommand;
 TCHAR				szRegPath[]=TEXT("Software\\LyxSoft Software Inc.\\DeskArea");
 TCHAR				szCopyRight[]=TEXT("Copyright (c) LyxSoft Software Inc. 2012\nAll rights reserved.");
 
+//
+// Main Function
+//
 int APIENTRY _tWinMain(HINSTANCE hInstance,
                      HINSTANCE hPrevInstance,
                      LPTSTR    lpCmdLine,
